@@ -7,7 +7,7 @@ New York City makes its [data on high school SAT scores](https://data.cityofnewy
 
 `ap_2010.csv` - [AP test results](https://data.cityofnewyork.us/Education/2010-AP-College-Board-School-Level-Results/itfs-ms3e) - Advanced Placement (AP) exam results for each high school (passing an optional AP exam in a particular subject can earn a student college credit in that subject)
 
-`class_size.csv` - [Class size](https://data.cityofnewyork.us/Education/2010-2011-Class-Size-School-level-detail/urz7-pzb3) Information on class size for each school
+`class_size.csv` - [Class size](https://data.cityofnewyork.us/Education/2010-2011-Class-Size-School-level-detail/urz7-pzb3) - Information on class size for each school
 
 `demographics.csv` - [Demographics](https://data.cityofnewyork.us/Education/School-Demographics-and-Accountability-Snapshot-20/ihfw-zy9j) - Demographics information for each school
 
@@ -19,4 +19,4 @@ New York City makes its [data on high school SAT scores](https://data.cityofnewy
 
 `survey_all.txt` `survey_d75.txt` - [School Survey](https://data.cityofnewyork.us/Education/NYC-School-Survey-2011/mnz3-dyi8) - Surveys of parents, teachers and students at each school
 
-`Schools.ipynb` Jupyter Notebook with my analysis and exploration of data
+`Schools.ipynb` - Jupyter Notebook with my analysis and exploration of data
